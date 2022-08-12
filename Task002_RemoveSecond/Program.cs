@@ -12,14 +12,15 @@ int Prompt(string message)
 int RemoveSecond()
 {
     int randomnum=new Random().Next(100,1000);
+    //Console.WriteLine(randomnum);
     int[] digits=new int [3];
-    int index=0;
-    while(index<3)
+    int index=2;
+    while(randomnum>0)
     {
         digits[index]=randomnum%10;
         Console.WriteLine($"{index+1} digit of random value is {digits[index]}");
         randomnum/=10;
-        index++;
+        index--;
     }
             
     return digits[0]*10+digits[2];
