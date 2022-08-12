@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\bin\Debug\net6.0\Task002_RemoveSecond.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\bin\Debug\net6.0\Task002_RemoveSecond.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\bin\Debug\net6.0\Task002_RemoveSecond.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\bin\Debug\net6.0\Task002_RemoveSecond.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\bin\Debug\net6.0\Task002_RemoveSecond.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\refint\Task002_RemoveSecond.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\Task002_RemoveSecond.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task002_RemoveSecond\obj\Debug\net6.0\ref\Task002_RemoveSecond.dll
