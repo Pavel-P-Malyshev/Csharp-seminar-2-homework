@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\bin\Debug\net6.0\Task001_SecondDigit.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\bin\Debug\net6.0\Task001_SecondDigit.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\bin\Debug\net6.0\Task001_SecondDigit.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\bin\Debug\net6.0\Task001_SecondDigit.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\bin\Debug\net6.0\Task001_SecondDigit.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\refint\Task001_SecondDigit.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\Task001_SecondDigit.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2 hw\Task001_SecondDigit\obj\Debug\net6.0\ref\Task001_SecondDigit.dll
